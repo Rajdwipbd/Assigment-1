@@ -2,10 +2,12 @@ body{
     font-family: 'Roboto Slab', serif;}
     .header{
         background-image: url(images/donation5.jpg);
+        background-repeat: no-repeat;
         line-height: 48px;
         text-align: center;
         font-size:30px;
         padding-bottom: 20px;
+        width: 100%;
     }
     .header a{
         font-size: 20px;
@@ -91,4 +93,32 @@ body{
         border-radius: 10px;
         margin-left: 48%;
         text-decoration: none;
+    }
+    .sectionthree{
+        text-align: center;
+        
+    }
+    .sectionthree p{
+        color: rgb(167, 124, 124);
+    }
+    .sectionfour{
+        display: flex;
+        margin-left: 30px;
+    }
+    .sectionfour img{
+        width:100px;
+        height: 100px;
+    }
+    .div1{
+        background-color: rgba(250, 235, 215, 0.527);
+        margin: 10px;
+        
+    }
+    .div2{
+        background-color: rgba(56, 65, 60, 0.205);
+        margin: 10px;
+    }
+    .div3{
+        background-color: rgba(111, 129, 156, 0.342);
+        margin: 10px;
     }
