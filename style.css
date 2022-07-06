@@ -2,28 +2,93 @@ body{
     font-family: 'Roboto Slab', serif;}
     .header{
         background-image: url(images/donation5.jpg);
-        line-height: 52px;
-        text-align: center;font-size:30px;
+        line-height: 48px;
+        text-align: center;
+        font-size:30px;
         padding-bottom: 20px;
     }
+    .header a{
+        font-size: 20px;
+        margin: 0 auto;
+        
+    }
     .headline1{
-        color: rgb(57, 194, 123);
+        color: white;
         font-weight: 800;
     }
     .headline2{
-        color: #e835f8b4;
+        color:white;
         font-weight: 800;
     }
-    .firstp{
-        color: rgb(29, 241, 245);
+    .header p{
+        color: rgb(241, 246, 237);
     }
     .pran{
         color: rgb(220, 242, 22);
     }
     .donate-now{
+        color: rgb(150, 226, 28);
         border-radius: 10px;
-        padding: 10px 30px;
+        padding: 10px 20px;
         text-decoration: none;
-        background-image: linear-gradient(red, rgb(212, 245, 112));
+        font-weight: 700;
+        background-image: linear-gradient(red, rgb(205, 79, 216));
     }
-    
+    .second-section{
+        text-align: center;
+    }
+    .second-section h2{
+        color: rgb(14, 166, 236);
+        font-weight: 800;
+    }
+    .second-section p{
+        color: rgba(159, 164, 124, 0.87);
+    }
+    .third-section{
+        display:flex;
+        text-align: center;
+        margin-left: 30%;}
+    .one-h{
+        background-color: aliceblue;
+    }
+    .one-h{
+        background-color: aliceblue;
+        padding: 20px;
+        margin: 2px
+    }
+    .two-h{
+        background-color: aliceblue;
+        padding: 20px;
+        margin: 2px;
+        border: 1px solid red;
+        color: rgba(255, 0, 0, 0.81);
+        font-weight: 900;
+    }
+    .five-h{
+        background-color: aliceblue;
+        padding: 20px;
+        margin: 2px;
+
+    }
+    .one-th{
+        background-color: aliceblue;
+        padding: 20px;
+        margin: 2px;
+
+    }
+    .five-th-h{
+        background-color: aliceblue;
+        padding: 20px;    
+        margin: 2px;
+
+    }
+    section form input{
+        margin-left: 45%;
+    }
+    section a{
+        padding: 10px 20px;
+        background-image: linear-gradient(orange, red);
+        border-radius: 10px;
+        margin-left: 48%;
+        text-decoration: none;
+    }
