@@ -85,13 +85,13 @@ body{
 
     }
     section form input{
-        margin-left: 45%;
+        margin-left: 43%;
     }
     section a{
         padding: 10px 20px;
         background-image: linear-gradient(orange, red);
         border-radius: 10px;
-        margin-left: 48%;
+        margin-left: 45%;
         text-decoration: none;
     }
     .sectionthree{
