@@ -122,3 +122,56 @@ body{
         background-color: rgba(111, 129, 156, 0.342);
         margin: 10px;
     }
+    .section-five{
+        display: flex;
+        margin-left: 20%;
+       
+    }
+    .section-five div-four{
+        width: 30%;
+        
+
+    }
+    .section-five div-five{
+        width: 60%;
+    }
+    .section-five img{
+        width: 400px;
+    }
+    .section-six{
+        text-align: center;
+    }
+    .section-seven{
+        
+        margin-left: 40%;
+        background-color: rgba(198, 161, 161, 0.764);
+    }
+    button{
+       background-color: rgb(169, 100, 100);
+    }
+.section-seven{
+    background-color: rgba(223, 216, 174, 0.632);
+    width: 70%;
+ 
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+
+}
+.section-seven div{
+    padding: 15px 20px;
+}
+.section8{
+    background-color:black ;
+    text-align: center;
+    padding: 10px 20px;
+
+}
+.section8 h1{
+    color: coral;
+    
+    
+}
+.section8 p{
+    color: aliceblue;
+}
